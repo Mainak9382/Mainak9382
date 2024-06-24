@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mainak9382&label=Profile%20views&color=0e75b6&style=flat" alt="mainak9382" /> </p>
 
-- 🔭 I’m currently working on **Flipkart Product Analyzer**
+- 🔭 I’m currently working on **Flipkart Product Review Analyzer (NLP project)**
 
 - 🌱 I’m currently learning **deep learning, Gen AI**
 
