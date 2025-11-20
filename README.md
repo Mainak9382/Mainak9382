@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mainak Banerjee</h1>
-<h3 align="center">A data science enthusiastic from India. Completed M.sc in Mathematics and Scientific Computing. Interested in deep learning, linear algebra, probability and statistics, Differential Equation, complex Analysis, problem solving.</h3>
+<h3 align="center">A data science enthusiastic. Completed M.sc in Mathematics and Scientific Computing. Interested in deep learning, linear algebra, probability and statistics, Differential Equation, complex Analysis, problem solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mainak9382&label=Profile%20views&color=0e75b6&style=flat" alt="mainak9382" /> </p>
 
-- 🔭 I’m currently working on **Flipkart Product Review Analyzer (NLP project)**
 
 - 🌱 I’m currently learning **deep learning, Gen AI**
 
