@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Image Caption Recommendation**
 
-- 📫 How to reach me **mainakbanerjee377@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
